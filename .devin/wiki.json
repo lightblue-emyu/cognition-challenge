@@ -1,0 +1,17 @@
+{
+  "repo_notes": [
+    {
+      "content": "This repository is the workspace for the Cognition challenge. The most important content is docs/demo-repo-selection.md, which records the criteria, candidates, exclusions and recommendation for choosing a public repository for the customer demo. Write wiki pages in Japanese and reproduce the tables from that document faithfully, including all numbers and links."
+    }
+  ],
+  "pages": [
+    {
+      "title": "Overview",
+      "purpose": "Describe the purpose of the cognition-challenge repository and its structure (README.md, hello.txt, docs/)."
+    },
+    {
+      "title": "デモ用公開リポジトリの選定",
+      "purpose": "Document docs/demo-repo-selection.md: the goal, selection criteria, candidate repositories table, excluded repositories with reasons, the recommendation, and next steps."
+    }
+  ]
+}
